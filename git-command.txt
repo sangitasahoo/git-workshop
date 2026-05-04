@@ -1,0 +1,20 @@
+417  git init
+  418  ls
+  419  ls -a
+  420  git status
+  421  git add testing.txt 
+  422  git status
+  423  ls
+  424  rm testing.txt 
+  425  ls
+  426  git status
+  427  git restore testing.txt 
+  428  ls
+  429  git status
+  430  git commit -m "my first file to commit" testing.txt 
+  431  git commit -m "my first file to commit"
+  432  git status
+  433  git config --global user.email "sangita.sahoo@user.com"
+  434  git config --global user.name "sangita sahoo"
+  435  git commit -m "my first file to commit"
+  436  git status
